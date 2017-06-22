@@ -1,0 +1,38 @@
+p {
+	font-family: 'Patrick Hand SC', cursive;
+	font-size: 17px;
+	
+}
+
+h1 {
+	font-family: 'Bree Serif', serif;
+	color: #0000ff;
+}
+ 
+ h1:hover {
+ 	color: #00ff00;
+}
+
+ #wrapper {
+ 	background: #ff8000;
+ 	margin: 50px 300px 200px 100px;
+ 	width: 250px;
+ 	height: 370px;
+ 	padding: 20px;
+ 	border: black solid 3px;
+ 	border-radius: 5px;
+}
+
+ img {
+    float: right;
+ 	margin: 25px 200px;
+ 	border: black solid 3px;
+ 	border-radius: 5px;
+}
+
+ body {
+ 	background-image: url("note.jpg");
+}
+
+
+

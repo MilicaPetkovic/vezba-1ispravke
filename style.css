@@ -1,0 +1,37 @@
+body {
+	background: #242424;
+}
+
+.wrapper {
+	background: #66CC00;
+	width: 600px;
+	padding: 20px;
+	margin: auto;
+	border: 2px solid black;
+}
+
+h3 {
+    font-size: 15px;
+}
+
+h1 {
+	font-size: 50px;
+	font-family: 'Volkhov', serif;
+}
+
+#slika {
+	float: right;
+	border: 2px solid black;
+}
+
+h2 {
+	font-family: 'Dosis', sans-serif;
+}
+
+p {
+	font-family: 'Arvo', serif;
+}
+
+#brod:hover {
+	color:  #ff0000;
+} 
